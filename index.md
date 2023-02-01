@@ -9,13 +9,9 @@ pitch: A very brief, one-line description of your project
 
 ---
 
-This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+## What is the MLSVS?
+The MLSVS (Machine Learning Security Verification Standard) provides a basis for testing the security of machine learning systems and models, and provides developers with a list of requirements for secure development.
 
-layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
+The primary aim of the MLSVS is to standardize the range of coverage and level of rigor in the market when it comes to verifying the security of machine learning systems and models. The standard provides a basis for testing the security controls of these systems and models, as well as any security controls in the environment that are relied on to protect against potential vulnerabilities. This standard can be used to establish a level of confidence in the security of machine learning systems and models. 
 
-title: Machine Learning Security Verification Standard
-tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
-
-level: For projects, this is your project level (2 - Incubator, 3 - Lab, 3.5 - Production, 4 - Flagship)
-
-type: code, tool, documentation, or other.
+Stay tunned for more details.
