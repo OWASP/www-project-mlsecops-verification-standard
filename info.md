@@ -1,4 +1,4 @@
-### MLSecOps Verification Standard Information
+### MLSVS Information
 * [Incubator Project](#)
 * [Type of Project](#)
 * [Version 0.0.0](#)
