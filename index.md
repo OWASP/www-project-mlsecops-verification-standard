@@ -17,7 +17,7 @@ The OWASP Machine Learning Security Verification Standard (MLSVS) Project provid
 
 The primary aim of the **OWASP Machine Learning Security Verification Standard (MLSVS) Project** is to normalise the range in the coverage and level of rigor in the market when it comes to verifying the security of machine learning systems and models. The standard provides a basis for testing the security controls of these systems and models, as well as any security controls in the environment that are relied on to protect against vulnerabilities. This standard can be used to establish a level of confidence in the security of machine learning systems and models. The requirements will be developed with the following objectives in mind:
 
-* **Use as a metric** - Provide a yardstick with which to assess tghe degree of trust that can be placed in their machine learning systems and models,
+* **Use as a metric** - Provide a yardstick with which to assess the degree of trust that can be placed in their machine learning systems and models,
 * **Use as guidance** - Provide guidance as to what to build into security controls in order to satisfy machine learning security requirements, and
 * **Use during procurement** - Provide a basis for specifying machine learning security verification requirements in contracts.
 
