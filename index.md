@@ -1,10 +1,12 @@
 ---
+
 layout: col-sidebar
 title: OWASP Machine Learning Security Verification Standard
 tags: mlsvs
 level: 2
 type: standards
 pitch:  The OWASP Machine Learning Security Verification Standards (MLSVS) Project is a framework of security requirements that focus on defining the security controls when designing, developing and testing machine learning systems and models.
+
 ---
 
 [![Creative Commons License](https://licensebuttons.net/l/by-sa/4.0/88x31.png)]
