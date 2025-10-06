@@ -1,0 +1,25 @@
+audience:
+  - breaker
+  - builder
+  - defender
+leaders:
+  - name: Sagar Bhure
+    email: sagar.bhure@owasp.org
+    github: sagarbhure
+  - name: Shain Singh
+    email: shain.singh@owasp.org
+    github: shsingh
+level: 2
+name: OWASP Machine Learning Security Verification Standard
+pitch: The OWASP Machine Learning Security Verification Standards (MLSVS) Project is a framework of security requirements that focus on defining the security
+  controls when designing, developing and testing machine learning systems and models.
+repositories:
+  - name: www-project-mlsecops-verification-standard
+    url: https://github.com/OWASP/www-project-mlsecops-verification-standard
+    description: OWASP Machine Learning Security Verification Standard Project
+tags:
+  - mlsvs
+  - custom-tag-1
+  - custom-tag-2
+type: documentation
+website: https://owasp.org/www-project-mlsecops-verification-standard
